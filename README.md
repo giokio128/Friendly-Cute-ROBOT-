@@ -1,15 +1,48 @@
 {
-  "name": "Friendly Cute |ROBOT|",
-  "type": 1,
-  "channel_id": "199737254929760256",
-  "token": "3d89bb7572e0fb30d8128367b3b1b44fecd1726de135cbe28a41f8b2f777c372ba2939e72279b94526ff5d1bd4358d65cf11",
-  "avatar": null,
-  "guild_id": "199737254929760256",
-  "id": "223704706495545344",
-  "user": {
-    "username": "Friendly Cute | ROBOT |",
-    "discriminator": "7479",
-    "id": "190320984123768832",
-    "avatar": "b004ec1740a63ca06ae2e14c5cee11f3"
-  }
+  "username": "Friendly Cute |BOT|",
+  "avatar_url": "https://imgur.com/a/5GqxfPQ",
+  "content": "Text message. Up to 2000 characters.",
+  "embeds": [
+    {
+      "author": {
+        "name": "Friendly Cute |ROBOT|",
+        "url": "https://www.reddit.com/r/cats/",
+        "icon_url": "https://imgur.com/a/5GqxfPQ"
+      },
+      "title": "Title",
+      "url": "https://google.com/",
+      "description": "Text message. You can use Markdown here. *Italic* **bold** __underline__ ~~strikeout~~ [hyperlink](https://google.com) `code`",
+      "color": 15258703,
+      "fields": [
+        {
+          "name": "Hello!",
+          "value": "Im Cute And i am a Robot too!",
+          "inline": true
+        },
+        {
+          "name": "Yup",
+          "value": "Im Cute!",
+          "inline": true
+        },
+        {
+          "name": "Use `\"inline\": true` Cool right?",
+          "value": "i can answer with Lovely messages!"
+        },
+        {
+          "name": "im open For Chatting in the Server! :wink:",
+          "value": "You are welcome :wink:"
+        }
+      ],
+      "thumbnail": {
+        "url": "https://imgur.com/a/5GqxfPQ"
+      },
+      "image": {
+        "url": "https://imgur.com/a/XHEnZLS"
+      },
+      "footer": {
+        "text": "Woah! So Cute! :wink:",
+        "icon_url": "https://imgur.com/a/5GqxfPQ"
+      }
+    }
+  ]
 }
